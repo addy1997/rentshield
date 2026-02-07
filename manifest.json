@@ -1,0 +1,35 @@
+{
+  "name": "RentShield 2026",
+  "short_name": "RentShield",
+  "description": "Your AI Legal Guardian for the UK Renters' Rights Act 2026. Protect your tenancy, track hazards, and fight bidding wars.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "categories": ["productivity", "legal"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/929/929430.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/929/929430.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/shield/mw600/24dp.png",
+      "sizes": "600x400",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "RentShield Dashboard"
+    }
+  ]
+}
